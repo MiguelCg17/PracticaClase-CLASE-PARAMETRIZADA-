@@ -1,0 +1,11 @@
+C:\Users\corde\OneDrive\Escritorio\Practicas.Clase_POO\PracticaClase(CLASE PARAMETRIZADA)\bin\Debug\PracticaClase(CLASE PARAMETRIZADA).exe.config
+C:\Users\corde\OneDrive\Escritorio\Practicas.Clase_POO\PracticaClase(CLASE PARAMETRIZADA)\bin\Debug\PracticaClase(CLASE PARAMETRIZADA).exe
+C:\Users\corde\OneDrive\Escritorio\Practicas.Clase_POO\PracticaClase(CLASE PARAMETRIZADA)\bin\Debug\PracticaClase(CLASE PARAMETRIZADA).pdb
+C:\Users\corde\OneDrive\Escritorio\Practicas.Clase_POO\PracticaClase(CLASE PARAMETRIZADA)\obj\Debug\PracticaClase(CLASE PARAMETRIZADA).csproj.AssemblyReference.cache
+C:\Users\corde\OneDrive\Escritorio\Practicas.Clase_POO\PracticaClase(CLASE PARAMETRIZADA)\obj\Debug\PracticaClase(CLASE PARAMETRIZADA).csproj.SuggestedBindingRedirects.cache
+C:\Users\corde\OneDrive\Escritorio\Practicas.Clase_POO\PracticaClase(CLASE PARAMETRIZADA)\obj\Debug\PracticaClase_CLASE_PARAMETRIZADA_.Form1.resources
+C:\Users\corde\OneDrive\Escritorio\Practicas.Clase_POO\PracticaClase(CLASE PARAMETRIZADA)\obj\Debug\PracticaClase_CLASE_PARAMETRIZADA_.Properties.Resources.resources
+C:\Users\corde\OneDrive\Escritorio\Practicas.Clase_POO\PracticaClase(CLASE PARAMETRIZADA)\obj\Debug\PracticaClase(CLASE PARAMETRIZADA).csproj.GenerateResource.cache
+C:\Users\corde\OneDrive\Escritorio\Practicas.Clase_POO\PracticaClase(CLASE PARAMETRIZADA)\obj\Debug\PracticaClase(CLASE PARAMETRIZADA).csproj.CoreCompileInputs.cache
+C:\Users\corde\OneDrive\Escritorio\Practicas.Clase_POO\PracticaClase(CLASE PARAMETRIZADA)\obj\Debug\PracticaClase(CLASE PARAMETRIZADA).exe
+C:\Users\corde\OneDrive\Escritorio\Practicas.Clase_POO\PracticaClase(CLASE PARAMETRIZADA)\obj\Debug\PracticaClase(CLASE PARAMETRIZADA).pdb
