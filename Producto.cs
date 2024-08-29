@@ -8,7 +8,7 @@ namespace PracticaClase_CLASE_PARAMETRIZADA_
 {
     internal class Producto<Tipo>
     {
-        int _intClave;
+        int32 _intClave;
         string _strDescripcion;
         string _strDepartamento;
         Tipo _PuntoReorden;
